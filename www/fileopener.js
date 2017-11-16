@@ -32,6 +32,15 @@ if (!window.plugins.fileOpener) {
 }
 */
 
+console.log("test");
+console.log("test");
+console.log("test");
+console.log("test");
+console.log("test");
+console.log("test");
+console.log("test");
+console.log("test");
+console.log("test");
 
 var fileOpener = {
     open : function (url) {
