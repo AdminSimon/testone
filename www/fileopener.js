@@ -31,7 +31,7 @@ if (!window.plugins.fileOpener) {
     };
 }
 */
-
+console.log("test");
 
 var fileOpener = {
     open : function (url) {
